@@ -1,4 +1,5 @@
 # 💫 About Me:
+Hey, i am a full stack developer 
 🔭 I’m currently working on HerWheels<br>🌱 I’m currently learning DSA<br>
 
 
