@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey!  I am a Fullstack developer <br>Student of BIT.M ( persuing bachelor degree )<br>from Nepal.
+Hey!  I'm a Fullstack developer <br>Student of BITM ( persuing )<br>from Nepal.
 
 
 ## 🌐 Socials:
